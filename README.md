@@ -36,7 +36,7 @@ This project simulates a toy robot moving on a square tabletop of dimensions 5 u
 
 1. **Run the simulation:**
 
-   Then run the following command:
+   To run the simulation run the following command:
 
    ```
    ruby main.rb
@@ -79,10 +79,8 @@ This project simulates a toy robot moving on a square tabletop of dimensions 5 u
 
 ## Running Tests
 
-   From terminal or command line, navigate to the project directory and use the following to run the tests for this project:
+   This command will execute the full spec suite using RSpec:
 
    ```
    bundle exec rspec
    ```
-
-   This command will execute the test suite using RSpec.
