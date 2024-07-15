@@ -2,7 +2,7 @@
 
 This project simulates a toy robot moving on a square tabletop of dimensions 5 units x 5 units. The robot responds to commands to place itself on the tabletop, move, turn left/right, and report its current position and facing direction.
 
-<img width="1015" alt="Screen Shot 2024-07-15 at 2 16 46 pm" src="https://github.com/user-attachments/assets/88e43098-4263-4fc5-bfd7-1497169316c6">
+<img width="830" alt="Screen Shot 2024-07-15 at 3 25 51 pm" src="https://github.com/user-attachments/assets/8f49873b-7d39-4d84-baa1-61fdbd9827b4">
 
 ## Setup
 
